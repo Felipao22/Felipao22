@@ -27,6 +27,12 @@ With me you will get a curious, creative developer, with a vast ability to solve
 -PostgreSQL<br>
 -SQLite3<br>
 
+<h4>📃|| Extras</h4>
+-Git<br>
+-Trello<br>
+-Jira<br>
+-SCRUM<br>
+
 
 
 <h2>🚀Some Projects:</h2> 
@@ -46,7 +52,7 @@ https://bring-it-app.vercel.app/<br>
 📫 How to reach me
 
 My Portfolio:<br>
-<br>
+https://myportfolio-felipe.netlify.app/<br>
 My LinkedIn:<br>
 https://www.linkedin.com/in/felipeaviani/<br>
 My E-mail:<br>
