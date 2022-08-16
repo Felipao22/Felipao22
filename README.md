@@ -43,10 +43,17 @@ https://bring-it-app.vercel.app/<br>
 <br>
 <br>
 
-<h2>📫My Links:</h2>
-My Portfolio:<br>
+📫 How to reach me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/felipeaviani/" >
+    <img width="4.5%" src="./assets/img/li.png"></a>
+    &nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/542664553869" >
+    <img width="4.5%" src="./assets/img/wa.png"></a>
+    &nbsp;&nbsp;&nbsp;
+<a href="mailto:felipeaviani@gmail.com" >
+    <img width="4.5%" src="./assets/img/gmail.png"></a>
+</p>
+<a>My Portfolio:</a>
 <br>
-My LinkedIn:<br>
-https://www.linkedin.com/in/felipeaviani/<br>
-My E-mail:<br>
-felipeaviani@gmail.com<br>
