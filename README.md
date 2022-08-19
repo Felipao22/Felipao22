@@ -1,7 +1,7 @@
 ###  <h1> Hi, I'm Felipe Aviani!👋 </h1> <br>
 ### <h3> Fullstack Developer </h3>
 
-Full Stack Developer with an inclination towards the Front-End. Proficient in various platforms, languages, and embedded systems. Individual and team projects completed. I have the ability to carry out scalable and modularizable web projects. Great aptitude for teamwork.
+Full Stack Developer with strong orientation to Front-End Development. Proficient in various platforms, languages, and embedded systems. Individual and team projects completed. I have the ability to carry out scalable and modularizable web projects. Great aptitude for teamwork.
 <h6>+800hs Fullstack Developer Bootcamp (Henry)</h6>
 
 Why me? 
