@@ -1,5 +1,5 @@
 ###  <h1> Hi, I'm Felipe Aviani!👋 </h1> <br>
-### <h3> Fullstack Developer </h3>
+### <h3> Full Stack Developer </h3>
 
 Full Stack Developer with strong orientation to Front-End Development. Proficient in various platforms, languages, and embedded systems. Individual and team projects completed. I have the ability to carry out scalable and modularizable web projects. Great aptitude for teamwork.
 <h6>+800hs Fullstack Developer Bootcamp (Henry)</h6>
@@ -13,9 +13,11 @@ With me you will get a curious, creative developer, with a vast ability to solve
 <h4>🎨|| Front-End</h4>
 -Javascript<br>
 -React<br>
+-React Native<br>
 -HTML<br>
 -CSS<br>
 -Bootstrap<br>
+-Tailwind CSS<br>
 
 <h4>🔌|| Back-End</h4>
 -NodeJS<br>
@@ -39,7 +41,7 @@ With me you will get a curious, creative developer, with a vast ability to solve
 <h4>Protección Laboral(Front End Developer)</h4><br> 
 React | CSS | HTML <br>
 Development of a website for the company Protección Laboral responding to the needs and vision of the client.
-Using the following technologies: JavaScript, React.js, Email.js and React-Bootstrap.
+Using the following technologies: JavaScript, React.js, Email.js and React-Bootstrap.<br>
 Web Hosting, domain and mails: DonWeb.<br>
 https://proteccionlaboral.com.ar<br>
 
