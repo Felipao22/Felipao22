@@ -40,7 +40,7 @@ With me you will get a curious, creative developer, with a vast ability to solve
 React | CSS | HTML <br>
 Development of a website for the company Protección Laboral responding to the needs and vision of the client.
 Using the following technologies: JavaScript, React.js, Email.js and React-Bootstrap.
-Web Hosting, domain and mails: DonWeb.
+Web Hosting, domain and mails: DonWeb.<br>
 https://proteccionlaboral.com.ar<br>
 
 <h4>Countries App(Fullstack)</h4><br> 
