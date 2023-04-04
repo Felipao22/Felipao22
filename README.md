@@ -1,11 +1,11 @@
 ###  <h1> Hi, I'm Felipe Aviani!👋 </h1> <br>
 ### <h3> Full Stack Developer </h3>
 
-Full Stack Developer with strong orientation to Front-End Development. Proficient in various platforms, languages, and embedded systems. Individual and team projects completed. I have the ability to carry out scalable and modularizable web projects. Great aptitude for teamwork.
+Full Stack Web developer with a passion for creating beautiful, functional, and user-centered digital experiences. With 2 years of experience in the field. I am always looking for new and innovative ways to bring my clients' visions to life.
 <h6>+800hs Fullstack Developer Bootcamp (Henry)</h6>
 
 Why me? 
-With me you will get a curious, creative developer, with a vast ability to solve problems and above all, someone always willing to share and acquire knowledge.
+Whether I'm working on a website or mobile app, I bring my commitment to design excellence and user-centered thinking to every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
 
 <h2>📃My Skills:</h2>
 
