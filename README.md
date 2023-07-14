@@ -60,6 +60,8 @@ https://bring-it-app.vercel.app/<br>
 
 📫 How to reach me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeaviani/)
+
 My Portfolio:<br>
 https://myportfolio-felipe.netlify.app/<br>
 My LinkedIn:<br>
