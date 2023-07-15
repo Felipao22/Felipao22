@@ -9,11 +9,11 @@ Whether I'm working on a website or mobile app, I bring my commitment to design 
 
 <h2>📃My Skills:</h2>
 
- <a href="#">
+ <a href="!#" target="_blank" rel="noreferrer">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felipao22&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
   </a>
 
- <a href="#">
+ <a href="!#" target="_blank" rel="noreferrer">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipao22&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
   </a>
 
