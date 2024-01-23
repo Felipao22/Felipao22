@@ -86,7 +86,7 @@ Wordpress | PHP| <br>
 🔹Implemented improvements to the contact form to facilitate interaction and efficient information capture.<br>
 🤖Introduced a chatbot, improving communication and providing a more interactive experience for users.<br>
 🌎Coordinated the translation of the site into multiple languages, expanding its global reach and accessibility to diverse audiences.<br>
-https://gotguides.net/<br>
+https://gotguides.net<br>
 
 <h2>🏛️Academic Projects:</h2>
 
