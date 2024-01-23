@@ -63,7 +63,8 @@ Whether I'm working on a website or mobile app, I bring my commitment to design 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)<br>
--SCRUM<br>
+
+![Scrum](https://img.shields.io/badge/Scrum-000?style=for-the-badge&logo=scrum-css&logoColor=white)
 
 
 
