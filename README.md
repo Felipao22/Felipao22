@@ -92,7 +92,7 @@ React | TypeScript | Zustand | Material UI<br>
 🔹 Executed various tasks, including the creation and optimization of engaging quizzes to elevate the site's educational value and user experience.<br>
 🔹 Expanded the content by adding challenging questions, enriching the platform and catering to a broader audience of JavaScript enthusiasts.<br>
 🔹 Enhanced user engagement by implementing immediate feedback with confetti animations for correct answers, making the learning experience both enjoyable and rewarding.<br>
-🔹 Introduced state-of-the-art Zustand integration for efficient and reactive state management, ensuring a seamless and responsive application.Notably, Zustand is leveraged to persistently store user progress, allowing them to seamlessly resume quizzes from where they left off when returning to the site.<br>
+🔹 Introduced state-of-the-art Zustand integration for efficient and reactive state management, ensuring a seamless and responsive application. Notably, Zustand is leveraged to persistently store user progress, allowing them to seamlessly resume quizzes from where they left off when returning to the site.<br>
 https://js-trivia-nu.vercel.app<br>
 
 <h4>Countries App(Full Stack Developer)</h4><br> 
