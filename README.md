@@ -35,7 +35,7 @@ Whether I'm working on a website or mobile app, I bring my commitment to design 
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Wordpress](https://img.shields.io/badge/Wordpress-38B2AC?style=for-the-badge&logo=Wordpress-css&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-000?style=for-the-badge&logo=Wordpress-css&logoColor=white)
 
 
 <h4>🔌|| Back-End</h4>
