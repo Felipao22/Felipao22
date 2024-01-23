@@ -66,14 +66,36 @@ Whether I'm working on a website or mobile app, I bring my commitment to design 
 
 
 <h2>🚀Some Projects:</h2>
-<h4>Protección Laboral(Front End Developer)</h4><br> 
-React | CSS | HTML <br>
-Development of a website for the company Protección Laboral responding to the needs and vision of the client.
-Using the following technologies: JavaScript, React.js, Email.js and React-Bootstrap.<br>
-Web Hosting, domain and mails: DonWeb.<br>
+<h4>Protección Laboral(Full Stack Developer)</h4><br> 
+React | CSS | HTML | Redux | Redux Toolkit | Ant Design | NodeJS | Express | Sequelize | PostgreSQL| <br>
+🔹I led the development of a customized web platform to optimize the document management of Protección Laboral,
+focusing on meeting the specific needs of the client.
+🗂️Efficient Document Management: I developed key functions using the aforementioned technologies to facilitate uploading and
+downloading of files, improving operational efficiency.
+☁️Infrastructure Management: I coordinated hosting, domain, cloud server and mail management in DonWeb for a reliable deployment.<br>
 https://proteccionlaboral.com.ar<br>
 
-<h4>Countries App(Fullstack)</h4><br> 
+<h4>Got Guides(Front Edn Developer)</h4><br> 
+Wordpress | PHP| <br>
+🔹I contributed significantly to the development and continuous improvement of the Got Guides website, built in Wordpress.
+🔹I performed various tasks, including style optimization to improve the site's aesthetics and user experience.
+🔹I added new destinations, expanding the platform's offerings and improving the diversity of content.
+🔹Implemented improvements to the contact form to facilitate interaction and efficient information capture.
+🤖Introduced a chatbot, improving communication and providing a more interactive experience for users.
+🌎Coordinated the translation of the site into multiple languages, expanding its global reach and accessibility to diverse audiences.<br>
+https://gotguides.net/<br>
+
+<h2>🏛️Academic Projects:</h2>
+
+<h4>JavaScript Trivia(Front End Developer)</h4><br> 
+React | TypeScript | Zustand | Material UI<br>
+🔹 Executed various tasks, including the creation and optimization of engaging quizzes to elevate the site's educational value and user experience.
+🔹 Expanded the content by adding challenging questions, enriching the platform and catering to a broader audience of JavaScript enthusiasts.
+🔹 Enhanced user engagement by implementing immediate feedback with confetti animations for correct answers, making the learning experience both enjoyable and rewarding.
+🔹 Introduced state-of-the-art Zustand integration for efficient and reactive state management, ensuring a seamless and responsive application.Notably, Zustand is leveraged to persistently store user progress, allowing them to seamlessly resume quizzes from where they left off when returning to the site.<br>
+https://js-trivia-nu.vercel.app<br>
+
+<h4>Countries App(Full Stack Developer)</h4><br> 
 React-Redux | NodeJS | PostgreSQL<br>
 SPA where you can browse through different countries and add new tourist activities<br>
 API: REST Countries<br>
