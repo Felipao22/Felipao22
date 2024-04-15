@@ -78,7 +78,7 @@ downloading of files, improving operational efficiency.<br>
 ☁️Infrastructure Management: I coordinated hosting, domain, cloud server and mail management in DonWeb for a reliable deployment.<br>
 https://proteccionlaboral.com.ar<br>
 
-<h4>Got Guides(Front Edn Developer)</h4><br> 
+<h4>Got Guides(Front End Developer)</h4><br> 
 Wordpress | PHP| <br>
 🔹I contributed significantly to the development and continuous improvement of the Got Guides website, built in Wordpress.<br>
 🔹I performed various tasks, including style optimization to improve the site's aesthetics and user experience.<br>
