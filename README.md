@@ -1,11 +1,7 @@
 ###  <h1> Hi, I'm Felipe Aviani!👋 </h1> <br>
-### <h3> Full Stack Developer </h3>
+### <h3> Front End Developer </h3>
 
-Full Stack Web developer with a passion for creating beautiful, functional, and user-centered digital experiences. With 2 years of experience in the field. I am always looking for new and innovative ways to bring my clients' visions to life.
-<h6>+800hs Fullstack Developer Bootcamp (Henry)</h6>
-
-Why me? 
-Whether I'm working on a website or mobile app, I bring my commitment to design excellence and user-centered thinking to every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
+Front End Developer with two years of experience in developing and designing interactive web applications. Specialized in modern front-end technologies (React, Next.js, TypeScript) and front-end frameworks (Bootstrap, Tailwind CSS, Material UI). He has participated in the development of internal administrative panels and document management web platforms, implementing key functionalities such as settlement modules, automated reporting and data analysis through graphs. Focused on continuous improvement and with experience in agile methodologies (Scrum), he provides efficient solutions oriented to user experience and the fulfillment of business objectives.
 
 <h2>📃My Skills:</h2>
 
@@ -69,6 +65,19 @@ Whether I'm working on a website or mobile app, I bring my commitment to design 
 
 
 <h2>🚀Some Projects:</h2>
+<h4>PayFun(Front End Developer)</h4><br> 
+React | Next.js | CSS | HTML | Redux | Redux Toolkit | Bootstrap | Material UI | <br>
+🔹I integrated the development team responsible for the internal administrative panel and client panel. I achieved a 30% improvement in site performance through optimizations in conditional rendering, data loading and efficient use of global states with Redux Toolkit. Also increased by 40% the efficiency in the management of administrative tasks thanks to the automation of processes such as report generation, access control by permissions and intelligent search engines. A transactional analytics module was developed that facilitated the visualization of operations through interactive graphics.
+Main responsibilities:
+- Development of compliance and transactional analytics module with interactive graphics.
+
+- Implementation of permission control for dynamic rendering.
+
+- Automatic generation of PDF and Excel reports.
+
+- Management of sub-users, notifications, payment orders, automatic debits, store configuration and ticketing system in the customer panel.<br>
+https://www.payfun.com.ar/<br>
+
 <h4>Protección Laboral(Full Stack Developer)</h4><br> 
 React | CSS | HTML | Redux | Redux Toolkit | Ant Design | NodeJS | Express | Sequelize | PostgreSQL| <br>
 🔹I led the development of a customized web platform to optimize the document management of Protección Laboral,
