@@ -1,7 +1,7 @@
 ###  <h1> Hi, I'm Felipe Aviani!👋 </h1> <br>
 ### <h3> Front End Developer </h3>
 
-Front End Developer with two years of experience in developing and designing interactive web applications. Specialized in modern front-end technologies (React, Next.js, TypeScript) and front-end frameworks (Bootstrap, Tailwind CSS, Material UI). He has participated in the development of internal administrative panels and document management web platforms, implementing key functionalities such as settlement modules, automated reporting and data analysis through graphs. Focused on continuous improvement and with experience in agile methodologies (Scrum), he provides efficient solutions oriented to user experience and the fulfillment of business objectives.
+Front End Developer with three years of experience in developing and designing interactive web and mobile applications. Specialized in modern front-end technologies (React, Next.js, React Native, TypeScript) and front-end frameworks (Bootstrap, Tailwind CSS, Material UI). He has participated in the development of internal administrative panels and document management web platforms, implementing key functionalities such as settlement modules, automated reporting and data analysis through graphs. Focused on continuous improvement and with experience in agile methodologies (Scrum), he provides efficient solutions oriented to user experience and the fulfillment of business objectives.
 
 <h2>📃My Skills:</h2>
 
