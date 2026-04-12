@@ -1,7 +1,7 @@
 ###  <h1> Hi, I'm Felipe Aviani!👋 </h1> <br>
 ### <h3>Frontend & Mobile Developer | React | React Native | Next.js | TypeScript</h3>
 
-Frontend & Mobile Developer with more than 2 years of experience building web and mobile applications. Specialized in modern frontend technologies such as React, Next.js, React Native, and TypeScript, as well as UI frameworks like Bootstrap, Tailwind CSS, Material UI, and Ant Design.
+Frontend & Mobile Developer with more than 3 years of experience building web and mobile applications. Specialized in modern frontend technologies such as React, Next.js, React Native, and TypeScript, as well as UI frameworks like Bootstrap, Tailwind CSS, Material UI, and Ant Design.
 
 I have contributed to the development of internal administrative panels, client-facing platforms, and mobile applications focused on process optimization, document management, and user experience. Experienced in agile methodologies (Scrum) and collaborative team environments, with a strong focus on performance, scalability, and business value.
 
